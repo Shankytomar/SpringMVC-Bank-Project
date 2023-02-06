@@ -23,8 +23,7 @@ Database :   MySql
 ### 5.Login/verification
   Except account creation, all transaction should go first via this login/verification page where credentials like accunt number and passwords gonna verifies, then user land on appropiate page. 
   
-### 6.Balance Inquiry 
-    Via a login user can see hie/her account balance.
+### 6.Balance Inquiry
   
   ## Screenshots of project [view pages]
   ![Home screen](https://github.com/Shankytomar/SpringMVC-Bank-Project/tree/master/Screenshots/homepage.jpg)
