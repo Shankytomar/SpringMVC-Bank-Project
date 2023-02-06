@@ -26,15 +26,15 @@ Database :   MySql
 ### 6.Balance Inquiry
   
   ## Screenshots of project [view pages]
-  [![Home screen](https://github.com/Shankytomar/SpringMVC-Bank-Project/tree/master/Screenshots/homepage.jpg)]
-  [![Account Creation](https://github.com/Shankytomar/SpringMVC-Bank-Project/tree/master/Screenshots/openaccount.jpg)]
-  [![Login/Verification](https://github.com/Shankytomar/SpringMVC-Bank-Project/tree/master/Screenshots/loginIn.jgp.jpg)]
-  [![Depsite page](https://github.com/Shankytomar/SpringMVC-Bank-Project/tree/master/Screenshots/deposite.jpg)]
-  [![Withdrawal page](https://github.com/Shankytomar/SpringMVC-Bank-Project/tree/master/Screenshots/withdrawal.jpg)]
-  [![Change PIN](https://github.com/Shankytomar/SpringMVC-Bank-Project/tree/master/Screenshots/changepin.jpg)]
-  [![Balance Inquiry](https://github.com/Shankytomar/SpringMVC-Bank-Project/tree/master/Screenshots/balance.jpg)]
+  [![Home screen](https://github.com/Shankytomar/SpringMVC-Bank-Project/tree/master/Screenshots/homepage.png)]
+  [![Account Creation](https://github.com/Shankytomar/SpringMVC-Bank-Project/tree/master/Screenshots/openaccount.png)]
+  [![Login/Verification](https://github.com/Shankytomar/SpringMVC-Bank-Project/tree/master/Screenshots/login.png)]
+  [![Depsite page](https://github.com/Shankytomar/SpringMVC-Bank-Project/tree/master/Screenshots/deposit.png)]
+  [![Withdrawal page](https://github.com/Shankytomar/SpringMVC-Bank-Project/tree/master/Screenshots/withdrawal.png)]
+  [![Change PIN](https://github.com/Shankytomar/SpringMVC-Bank-Project/tree/master/Screenshots/changepin.png)]
+  [![Balance Inquiry](https://github.com/Shankytomar/SpringMVC-Bank-Project/tree/master/Screenshots/balance.png)]
   ### Database Tables
-  [![User table](https://github.com/Shankytomar/SpringMVC-Bank-Project/tree/master/Screenshots/userdata.jpg)]
-  [![Transaction table](https://github.com/Shankytomar/SpringMVC-Bank-Project/tree/master/Screenshots/transaction.jpg)]
+  [![User table](https://github.com/Shankytomar/SpringMVC-Bank-Project/tree/master/Screenshots/userdata.png)]
+  [![Transaction table](https://github.com/Shankytomar/SpringMVC-Bank-Project/tree/master/Screenshots/transaction.png)]
   
   
