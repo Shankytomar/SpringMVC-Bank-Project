@@ -27,7 +27,7 @@ Database :   MySql
   ![Home screen](https://github.com/Shankytomar/SpringMVC-Bank-Project/tree/master/Screenshots/homepage.jpg)
   ![Account Creation](https://github.com/Shankytomar/SpringMVC-Bank-Project/tree/master/Screenshots/openaccount.jpg)
   ![Login/Verification](https://github.com/Shankytomar/SpringMVC-Bank-Project/tree/master/Screenshots/loginIn.jgp.jpg)
-  ![Depsite page](https://github.com/Shankytomar/SpringMVC-Bank-Project/tree/master/Screenshots/deposit.jpg)
+  ![Depsite page](https://github.com/Shankytomar/SpringMVC-Bank-Project/tree/master/Screenshots/deposite.jpg)
   ![Withdrawal page](https://github.com/Shankytomar/SpringMVC-Bank-Project/tree/master/Screenshots/withdrawal.jpg)
   ![Change PIN](https://github.com/Shankytomar/SpringMVC-Bank-Project/tree/master/Screenshots/changepin.jpg)
   ![Balance Inquiry](https://github.com/Shankytomar/SpringMVC-Bank-Project/tree/master/Screenshots/balance.jpg)
