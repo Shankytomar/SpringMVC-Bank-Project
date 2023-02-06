@@ -32,7 +32,7 @@ Database :   MySql
   ![Change PIN](https://github.com/Shankytomar/SpringMVC-Bank-Project/tree/master/Screenshots/changepin.jpg)
   ![Balance Inquiry](https://github.com/Shankytomar/SpringMVC-Bank-Project/tree/master/Screenshots/balance.jpg)
   ### Database Tables
-  ![User table](https://github.com/Shankytomar/SpringMVC-Bank-Project/tree/master/Screenshot/userdata.jpg)
-  ![Transaction table](https://github.com/Shankytomar/SpringMVC-Bank-Project/tree/master/Screenshot/transaction.jpg)
+  ![User table](https://github.com/Shankytomar/SpringMVC-Bank-Project/tree/master/Screenshots/userdata.jpg)
+  ![Transaction table](https://github.com/Shankytomar/SpringMVC-Bank-Project/tree/master/Screenshots/transaction.jpg)
   
   
