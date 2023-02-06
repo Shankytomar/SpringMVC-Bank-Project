@@ -58,7 +58,7 @@
       <img src="https://img.freepik.com/premium-vector/bank-office-interior-professional-banking-service-finance-manager-clients-credit-deposit-consult-management-vector-concept_176411-627.jpg?w=1380" height=250 class="d-block w-100" alt="...">
     </div>
   </div>
-</div>
+</div>		
 <div style="max-width: 18rem; margin-left:100px; margin-top:20px;">
  	<div class="card text-bg-primary mb-3">
   		<div class="card-header">TRANSACTION SUCCEED</div>

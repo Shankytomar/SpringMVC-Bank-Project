@@ -67,9 +67,11 @@
 <div id="login-form-wrap" style="margin-left:70px; margin-top:20px">
   <h2>Login</h2>
   <form id="login-form" action="loginprocess" method="post">
+  <label for="validationCustom01" class="form-label">Account Number</label>
     <p>
     <input type="text" name="accountnumber" placeholder="acc. number" required><span></span><span></span></i>
     </p>
+    <label for="validationCustom01" class="form-label">PIN</label>
     <p>
     <input type="password"  name="password" placeholder="password" required><span></span><span></span></i>
     </p>
