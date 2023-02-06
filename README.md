@@ -24,13 +24,13 @@ Database :   MySql
   Except account creation, all transaction should go first via this login/verification page where credentials like accunt number and passwords gonna verifies, then user land on appropiate page. 
   
   ## Screenshots of project [view pages]
-  ![Home screen](https://github.com/Shankytomar/SpringMVC-Bank-Project/tree/master/Screenshot/homepage.jpg)
-  ![Account Creation](https://github.com/Shankytomar/SpringMVC-Bank-Project/tree/master/Screenshot/openaccount.jpg)
-  ![Login/Verification](https://github.com/Shankytomar/SpringMVC-Bank-Project/tree/master/Screenshot/logIn.jpg)
-  ![Depsite page](https://github.com/Shankytomar/SpringMVC-Bank-Project/tree/master/Screenshot/deposit.jpg)
-  ![Withdrawal page](https://github.com/Shankytomar/SpringMVC-Bank-Project/tree/master/Screenshot/withdrawal.jpg)
-  ![Change PIN](https://github.com/Shankytomar/SpringMVC-Bank-Project/tree/master/Screenshot/changepin.jpg)
-  ![Balance Inquiry](https://github.com/Shankytomar/SpringMVC-Bank-Project/tree/master/Screenshot/balance.jpg)
+  ![Home screen](https://github.com/Shankytomar/SpringMVC-Bank-Project/tree/master/Screenshots/homepage.jpg)
+  ![Account Creation](https://github.com/Shankytomar/SpringMVC-Bank-Project/tree/master/Screenshots/openaccount.jpg)
+  ![Login/Verification](https://github.com/Shankytomar/SpringMVC-Bank-Project/tree/master/Screenshots/logIn.jpg)
+  ![Depsite page](https://github.com/Shankytomar/SpringMVC-Bank-Project/tree/master/Screenshots/deposit.jpg)
+  ![Withdrawal page](https://github.com/Shankytomar/SpringMVC-Bank-Project/tree/master/Screenshots/withdrawal.jpg)
+  ![Change PIN](https://github.com/Shankytomar/SpringMVC-Bank-Project/tree/master/Screenshots/changepin.jpg)
+  ![Balance Inquiry](https://github.com/Shankytomar/SpringMVC-Bank-Project/tree/master/Screenshots/balance.jpg)
   ### Database Tables
   ![User table](https://github.com/Shankytomar/SpringMVC-Bank-Project/tree/master/Screenshot/userdata.jpg)
   ![Transaction table](https://github.com/Shankytomar/SpringMVC-Bank-Project/tree/master/Screenshot/transaction.jpg)
